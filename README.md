@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying Computer Science at UGR
 - 📫 How to reach me mabiliastella@gmail.com or Linkedin :)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i'm half Spanish half Italian!
+- ⚡ Fun fact: I'm half Spanish half Italian!
 
 Hello, world! My name is Mabiia, and I'm a CompSci student at the Universidad de Granada. 
 I am passionate about exploring the domains of artificial intelligence and big data, and
