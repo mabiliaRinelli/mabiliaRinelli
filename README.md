@@ -5,7 +5,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm half Spanish half Italian!
 
-Hello, world! My name is Mabiia, and I'm a CompSci student at the Universidad de Granada. 
+Hello, world! I'm a CompSci student at the Universidad de Granada. 
 I am passionate about exploring the domains of artificial intelligence and big data, and
 I am eager to dive deep into these fields and absorb as much knowledge as possible.
 
